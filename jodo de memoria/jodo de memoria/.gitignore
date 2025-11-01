@@ -1,0 +1,4 @@
+# ignora cache e backups locais
+.DS_Store
+*.log
+node_modules/
